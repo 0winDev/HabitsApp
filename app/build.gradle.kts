@@ -22,6 +22,8 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "com.example.habitsapp.HiltTestRunner"
+        val googleApiKey: String = project.findProperty("GOOGLE_API_KEY") as? String ?: ""
+        resValue("string", "google_api_key", googleApiKey)
     }
 
     buildTypes {

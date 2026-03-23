@@ -9,7 +9,7 @@ import retrofit2.http.PATCH
 
 interface HomeApi {
     companion object {
-        const val BASE_URL = "https://dailyhabits-9c212-default-rtdb.firebaseio.com/"
+        const val BASE_URL = "https://habitsapps-b5fde-default-rtdb.firebaseio.com/"
     }
 
     @GET("habits.json")
