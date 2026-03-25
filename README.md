@@ -8,18 +8,18 @@ El proyecto sigue **Clean Architecture** y principios **SOLID**.
 ## 🛠 Tech Stack
 
 
-- **Clean Architecture:**
-- **SOLID:**   
+- **Clean Architecture**
+- **SOLID**   
 - **Kotlin**  
 - **Jetpack Compose:**
-- **Dagger-Hilt:** 
-- **Firebase Authentication:**
+- **Dagger-Hilt** 
+- **Firebase Authentication**
 - **Room:**
-- **Retrofit:**   
-- **AlarmManager:**
-- **Broadcast Receivers:**
-- **WorkManager:** 
-- **Unit Tests + UI Tests:**  
+- **Retrofit**   
+- **AlarmManager**
+- **Broadcast Receivers**
+- **WorkManager** 
+- **Unit Tests + UI Tests**  
 
 
 
