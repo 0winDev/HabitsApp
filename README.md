@@ -8,18 +8,18 @@ El proyecto sigue **Clean Architecture** y principios **SOLID**.
 ## 🛠 Tech Stack
 
 
-- **Clean Architecture:** Separación de responsabilidades y mantenibilidad del código.  
-- **SOLID:** Código limpio, modular y extensible.  
+- **Clean Architecture:**
+- **SOLID:**   
 - **Kotlin**  
-- **Jetpack Compose:** UI flexible y dinámica.  
-- **Dagger-Hilt:** Inyección de dependencias para escalabilidad y pruebas unitarias.  
-- **Firebase Authentication:** Autenticación segura de usuarios.  
-- **Room:** Persistencia local rápida y eficiente.  
-- **Retrofit:** Sincronización con API remota.  
-- **AlarmManager:** Programación de notificaciones.  
-- **Broadcast Receivers:** Gestionan alarmas; se activan al reiniciar el dispositivo o cuando suena una alarma para programar la siguiente.  
-- **WorkManager:** Tareas en segundo plano y sincronización offline.  
-- **Unit Tests + UI Tests:** Garantía de calidad de los componentes clave. 
+- **Jetpack Compose:**
+- **Dagger-Hilt:** 
+- **Firebase Authentication:**
+- **Room:**
+- **Retrofit:**   
+- **AlarmManager:**
+- **Broadcast Receivers:**
+- **WorkManager:** 
+- **Unit Tests + UI Tests:**  
 
 
 
